@@ -34,7 +34,7 @@ Focused on building strong foundations in C and system-level development. I work
 - **Get Next Line** — [LINK_HERE]  
 - **Born2beRoot** — [LINK_HERE]  
 - **Push_swap** — [LINK_HERE]  
-- **Pipex** — (https://github.com/NikitaKuydin08/42Pipex) 
+- **Pipex** — [Go dance salsa somewhere! :)](https://github.com/NikitaKuydin08/42Pipex) 
 - **Fractol** — [LINK_HERE]  
 
 ---
