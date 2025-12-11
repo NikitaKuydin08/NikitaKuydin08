@@ -31,11 +31,11 @@ Focused on building strong foundations in C and system-level development. I work
 *(Replace each `[...]` with your GitHub links)*
 
 - **Libft** — (https://github.com/NikitaKuydin08/42Libft)  
-- **ft_printf** — (https://github.com/NikitaKuydin08/42Pipex) 
+- **ft_printf** —  
 - **Get Next Line** — [LINK_HERE]  
 - **Born2beRoot** — [LINK_HERE]  
 - **Push_swap** — [LINK_HERE]  
-- **Pipex** — [LINK_HERE]  
+- **Pipex** — (https://github.com/NikitaKuydin08/42Pipex) 
 - **Fractol** — [LINK_HERE]  
 
 ---
