@@ -29,7 +29,7 @@ Focused on building strong foundations in C and system-level development. I work
 
 ## 🚀 42 Projects
 
-- **Libft** — (https://github.com/NikitaKuydin08/42Libft)  
+- **Libft** — [Your very first own library](https://github.com/NikitaKuydin08/42Libft)  
 - **ft_printf** —  
 - **Get Next Line** — [LINK_HERE]  
 - **Born2beRoot** — [LINK_HERE]  
