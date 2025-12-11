@@ -31,7 +31,7 @@ Focused on building strong foundations in C and system-level development. I work
 
 - **Libft** — [Your very first own library](https://github.com/NikitaKuydin08/42Libft)  
 - **ft_printf** —  [Because ft_putnbr() and ft_putstr() aren’t enough](https://github.com/NikitaKuydin08/42Printf)
-- **Get Next Line** — [LINK_HERE]  
+- **Get Next Line** — [Reading a line from a file descriptor is way too tedious.](https://github.com/NikitaKuydin08/42Get_next_line)
 - **Born2beRoot** — [LINK_HERE]  
 - **Push_swap** — [LINK_HERE]  
 - **Pipex** — [Go dance salsa somewhere! :)](https://github.com/NikitaKuydin08/42Pipex) 
