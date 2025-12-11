@@ -30,7 +30,7 @@ Focused on building strong foundations in C and system-level development. I work
 ## 🚀 42 Projects
 
 - **Libft** — [Your very first own library](https://github.com/NikitaKuydin08/42Libft)  
-- **ft_printf** —  
+- **ft_printf** —  [Because ft_putnbr() and ft_putstr() aren’t enough](https://github.com/NikitaKuydin08/42Printf)
 - **Get Next Line** — [LINK_HERE]  
 - **Born2beRoot** — [LINK_HERE]  
 - **Push_swap** — [LINK_HERE]  
