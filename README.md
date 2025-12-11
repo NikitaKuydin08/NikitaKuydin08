@@ -3,7 +3,7 @@
 ### 42 Bangkok Student • Advanced Learner
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A4FFF&height=190&section=header&text=Nikita%20Kuydin&fontSize=55&fontColor=ffffff&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=0:4A1F80,100:C3A2F5&text=Nikita%20Kuydin&textBg=false&fontSize=0"/>
 </p>
 
 ---
@@ -28,7 +28,6 @@ Focused on building strong foundations in C and system-level development. I work
 ---
 
 ## 🚀 42 Projects
-*(Replace each `[...]` with your GitHub links)*
 
 - **Libft** — (https://github.com/NikitaKuydin08/42Libft)  
 - **ft_printf** —  
@@ -65,5 +64,5 @@ Focused on building strong foundations in C and system-level development. I work
 ---
 
 ## 📫 Contact
-- **GitHub:** https://github.com/yourusername  
-- **Email:** your.email@example.com
+- **GitHub:** https://github.com/NikitaKuydin08 
+- **Email:** nikitakuydin@gmail.com
