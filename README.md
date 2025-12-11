@@ -35,7 +35,7 @@ Focused on building strong foundations in C and system-level development. I work
 - **Born2beRoot** — [Wonderful world of virtualization](https://www.youtube.com/watch?v=W5Sq71VTJ9Q) 
 - **Push_swap** — [Because Swap_push doesn’t feel as natural](https://github.com/NikitaKuydin08/42Push_Swap)  
 - **Pipex** — [Go dance salsa somewhere! :)](https://github.com/NikitaKuydin08/42Pipex) 
-- **Fractol** — [LINK_HERE]  
+- **Fractol** — [Computer Graphics Fractals](https://github.com/NikitaKuydin08/42Fractol) 
 
 ---
 
