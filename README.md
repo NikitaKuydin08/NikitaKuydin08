@@ -31,7 +31,7 @@ Focused on building strong foundations in C and system-level development. I work
 *(Replace each `[...]` with your GitHub links)*
 
 - **Libft** — (https://github.com/NikitaKuydin08/42Libft)  
-- **ft_printf** — [LINK_HERE]  
+- **ft_printf** — (https://github.com/NikitaKuydin08/42Pipex) 
 - **Get Next Line** — [LINK_HERE]  
 - **Born2beRoot** — [LINK_HERE]  
 - **Push_swap** — [LINK_HERE]  
