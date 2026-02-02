@@ -36,7 +36,7 @@ Focused on building strong foundations in C and system-level development. I work
 - **Push_swap** — [Because Swap_push doesn’t feel as natural](https://github.com/NikitaKuydin08/42Push_Swap)  
 - **Pipex** — [Go dance salsa somewhere! :)](https://github.com/NikitaKuydin08/42Pipex) 
 - **Fractol** — [Computer Graphics Fractals](https://github.com/NikitaKuydin08/42Fractol)
-- **Philosophers** — .[Concurrent programming, focusing on multithreading and multiprocessing].
+- **Philosophers** — .[Concurrent programming, focusing on multithreading and multiprocessing](https://github.com/NikitaKuydin08/42Philosophers).
 
 ---
 
