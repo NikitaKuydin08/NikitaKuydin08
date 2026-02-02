@@ -37,11 +37,12 @@ Focused on building strong foundations in C and system-level development. I work
 - **Pipex** — [Go dance salsa somewhere! :)](https://github.com/NikitaKuydin08/42Pipex) 
 - **Fractol** — [Computer Graphics Fractals](https://github.com/NikitaKuydin08/42Fractol)
 - **Philosophers** — [Concurrent programming, focusing on multithreading and multiprocessing](https://github.com/NikitaKuydin08/42Philosophers)
+- **Minishell** — [My very own little Bash](https://github.com/NikitaKuydin08/42Minishell.git)
 
 ---
 
 ## 🎯 What I'm Working On
-- Minishell  
+- Philosophers  
 - Preparing for the next 42 exam  
 - Staying consistent and improving my C fluency
 
