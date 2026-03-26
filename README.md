@@ -1,6 +1,6 @@
 # 💜 Nikita Kuydin
 
-### 42 Bangkok Student • Advanced Learner
+### 42 Bangkok Student • Experienced
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:4A1F80,100:C3A2F5&text=Nikita%20Kuydin&textBg=false&fontSize=0&fontColor=FFFFFF"/>
@@ -42,7 +42,7 @@ Focused on building strong foundations in C and system-level development. I work
 ---
 
 ## 🎯 What I'm Working On
-- Philosophers  
+- NetPractice  
 - Preparing for the next 42 exam  
 - Staying consistent and improving my C fluency
 
