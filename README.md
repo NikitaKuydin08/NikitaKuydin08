@@ -42,8 +42,8 @@ Focused on building strong foundations in C and system-level development. I work
 ---
 
 ## 🎯 What I'm Working On
-- NetPractice  
-- Preparing for the next 42 exam  
+- Cub3d and CPP projects  
+- Co-foundering a startup project  
 - Staying consistent and improving my C fluency
 
 ---
