@@ -38,7 +38,7 @@ Focused on building strong foundations in C and system-level development. I work
 - **Fractol** — [Computer Graphics Fractals](https://github.com/NikitaKuydin08/42Fractol)
 - **Philosophers** — [Concurrent programming, focusing on multithreading and multiprocessing](https://github.com/NikitaKuydin08/42Philosophers)
 - **Minishell** — [My very own little Bash](https://github.com/NikitaKuydin08/42Minishell.git)
-- **NetPractice** — [Computer Networking Basics]()
+- **NetPractice** — [Computer Networking Basics](https://github.com/NikitaKuydin08/42NetPractice.git)
 
 ---
 
