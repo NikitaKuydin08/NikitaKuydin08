@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:4A1F80,100:C3A2F5&text=Nikita%20Kuydin&textBg=false&fontSize=0&fontColor=FFFFFF"/>
 </p>
 
-https://42cv.dev/api/badge/cmrly35gv00060kqpr3chkctk/stats?cursusId=21&coalitionId=neon
+[![nkuydin's 42 stats](https://42cv.dev/api/badge/cmrly35gv00060kqpr3chkctk/stats?cursusId=21&coalitionId=neon)](https://42cv.dev/nkuydin)
 
 ---
 
