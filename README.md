@@ -1,6 +1,6 @@
 # 💜 Nikita Kuydin
 
-### 42 Bangkok Student • Experienced
+### 42 Bangkok Student • Master
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:4A1F80,100:C3A2F5&text=Nikita%20Kuydin&textBg=false&fontSize=0&fontColor=FFFFFF"/>
@@ -19,12 +19,16 @@ Focused on building strong foundations in C and system-level development. I work
 ## 🔧 Tech Skills
 
 ### **Languages**
-- C  
+- C
+- C++
+- Object Oriented Programming(OOP)  
 - Shell scripting
 
 ### **Tools**
-- Linux  
-- Git  
+- Linux
+- Bash
+- Git
+- GitHub
 - VSCode  
 
 ---
@@ -41,13 +45,15 @@ Focused on building strong foundations in C and system-level development. I work
 - **Philosophers** — [Concurrent programming, focusing on multithreading and multiprocessing](https://github.com/NikitaKuydin08/42Philosophers)
 - **Minishell** — [My very own little Bash](https://github.com/NikitaKuydin08/42Minishell.git)
 - **NetPractice** — [Computer Networking Basics](https://github.com/NikitaKuydin08/42NetPractice.git)
-
+- **Cub3D** — [A small graphical engine in C that renders a 3D-looking maze](https://github.com/NikitaKuydin08/42Cub3d.git)
+- **CPP00_04** — [OOP, Inheritance, Polymorphism, Classes, Mem. Allocation](https://github.com/NikitaKuydin08/CPP00_04.git)
+- **CPP05_09** — [Abstract Class, Virtual, Type Casting](https://github.com/NikitaKuydin08/CPP05_09.git)
 ---
 
 ## 🎯 What I'm Working On
-- Cub3d and CPP projects  
-- Co-foundering a startup project  
-- Staying consistent and improving my C fluency
+- CPP projects
+- Preparing for the Exam 05
+- Staying consistent and improving my C++ fluency
 
 ---
 
