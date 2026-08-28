@@ -47,7 +47,7 @@ Focused on building strong foundations in C and system-level development. I work
 - **NetPractice** — [Computer Networking Basics](https://github.com/NikitaKuydin08/42NetPractice.git)
 - **Cub3D** — [A small graphical engine in C that renders a 3D-looking maze](https://github.com/NikitaKuydin08/42Cub3d.git)
 - **CPP00_04** — [OOP, Inheritance, Polymorphism, Classes, Mem. Allocation](https://github.com/NikitaKuydin08/CPP00_04.git)
-- **CPP05_09** — [Abstract Class, Virtual, Type Casting](https://github.com/NikitaKuydin08/CPP05_09.git)
+- **CPP05_09** — [Abstract Class, Virtual, Type Casting, Templates, STL, Container, Algorithm](https://github.com/NikitaKuydin08/CPP05_09.git)
 ---
 
 ## 🎯 What I'm Working On
